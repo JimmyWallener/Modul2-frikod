@@ -1,0 +1,20 @@
+body {
+  background-color: #000000;
+}
+.main {
+  margin: 0 auto;
+  padding: 200px;
+  text-align: center;
+}
+.colorbox {
+  margin: 0 auto;
+  padding: 100px;
+}
+.textbox {
+  margin: 0 auto;
+  padding: 100px;
+  color: white;
+}
+.changes .reset {
+  margin: 0 auto;
+}
